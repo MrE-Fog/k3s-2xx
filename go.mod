@@ -110,7 +110,7 @@ require (
 	github.com/json-iterator/go v1.1.12
 	github.com/k3s-io/helm-controller v0.15.2
 	github.com/k3s-io/kine v0.10.1
-	github.com/klauspost/compress v1.16.5
+	github.com/klauspost/compress v1.16.7
 	github.com/kubernetes-sigs/cri-tools v0.0.0-00010101000000-000000000000
 	github.com/lib/pq v1.10.2
 	github.com/mattn/go-sqlite3 v1.14.15
@@ -141,10 +141,10 @@ require (
 	go.etcd.io/etcd/etcdutl/v3 v3.5.7
 	go.etcd.io/etcd/server/v3 v3.5.7
 	go.uber.org/zap v1.24.0
-	golang.org/x/crypto v0.8.0
+	golang.org/x/crypto v0.12.0
 	golang.org/x/net v0.9.0
 	golang.org/x/sync v0.1.0
-	golang.org/x/sys v0.7.0
+	golang.org/x/sys v0.11.0
 	google.golang.org/grpc v1.53.0
 	gopkg.in/yaml.v2 v2.4.0
 	inet.af/tcpproxy v0.0.0-20200125044825-b6bb9b5b8252
@@ -323,9 +323,9 @@ require (
 	github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822 // indirect
 	github.com/mxk/go-flowrate v0.0.0-20140419014527-cca7078d478f // indirect
 	github.com/nats-io/jsm.go v0.0.31-0.20220317133147-fe318f464eee // indirect
-	github.com/nats-io/jwt/v2 v2.4.1 // indirect
-	github.com/nats-io/nats-server/v2 v2.9.16 // indirect
-	github.com/nats-io/nats.go v1.25.0 // indirect
+	github.com/nats-io/jwt/v2 v2.5.0 // indirect
+	github.com/nats-io/nats-server/v2 v2.9.23 // indirect
+	github.com/nats-io/nats.go v1.28.0 // indirect
 	github.com/nats-io/nkeys v0.4.4 // indirect
 	github.com/nats-io/nuid v1.0.1 // indirect
 	github.com/opencontainers/go-digest v1.0.0 // indirect
